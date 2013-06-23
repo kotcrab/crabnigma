@@ -13,5 +13,5 @@ enigma.setRot3Pos(14);
 System.out.println(enigma.processString("WELCOME TO CRABNIGMA")); //this will result NSVGUHR EC HLDSUESWY
 ```
 
-GUI screenshot:
+GUI screenshot:  
 ![GUI screenshot](http://dl.kotcrab.pl/github/crabnigma.png)
