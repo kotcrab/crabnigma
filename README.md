@@ -14,4 +14,4 @@ System.out.println(enigma.processString("WELCOME TO CRABNIGMA")); //this will re
 ```
 
 GUI screenshot:
-![GUI screenshot](dl.kotcrab.pl/github/crabnigma.png)
+![GUI screenshot](http://dl.kotcrab.pl/github/crabnigma.png)
